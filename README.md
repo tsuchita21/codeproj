@@ -1,9 +1,7 @@
-# Atlassian JIRA Online Learning Platform 
-Project on Online training hub
+# Atlassian Confluence Build Connect Open-Source Online Learning Platform 
 
 # Problem
-
-Since the break out of this Pandemic everyone is staying home and needs to upgrade their skills as well.This website is for those who want to learn new skills and also for those who wants to teach the students.
+Since the global COVID-19 pandemic, a lot of people have lost their jobs or have pay cuts, hours reduced etc. and need to upskill and retrain in areas where it is high in demand but is accessible and affordable in a different learning style from traditional learning platforms using VR. Since the COVID-19 pandemic, there are a lot of free courses but many are scams so we want to have verified instructors with qualifications.
 
 
 # Overview
