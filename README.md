@@ -3,6 +3,9 @@ Project on Online training hub
 
 # Problem
 
+Since the break out of this Pandemic everyone is staying home and needs to upgrade their skills as well.This website is for those who want to learn new skills and also for those who wants to teach the students.
+
+
 # Overview
 
 # How it works 
