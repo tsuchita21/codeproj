@@ -1,6 +1,6 @@
 {
-    "name": "Hello World",
-    "description": "Atlassian Connect app",
+    "name": "Atlassian Connect App",
+    "description": "Online Learning Platform App",
     "key": "com.example.myapp",
     "baseUrl": "https://<placeholder-url>",
     "vendor": {
