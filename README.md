@@ -1,12 +1,11 @@
 # Atlassian Confluence Build Connect Open-Source Online Learning Platform 
 
 # Problem
-Since the global COVID-19 pandemic, a lot of people have lost their jobs or have pay cuts, hours reduced etc. and need to upskill and retrain in areas where it is high in demand but is accessible and affordable in a different learning style from traditional learning platforms using VR. Since the COVID-19 pandemic, there are a lot of free courses but many are scams so we want to have verified instructors with qualifications.
+Since the global COVID-19 pandemic, a lot of people have lost their jobs or have pay cuts, hours reduced etc. and need to upskill and retrain in areas where it is high in demand but is accessible and affordable in a different learning style from traditional learning platforms using VR. Since the COVID-19 pandemic, there are a lot of free courses on demand but many apart from large corporations are scams so we want to have verified instructors with qualifications.
 
 
 # Overview
-
-The main purpose of this website is to give chances to both the teachers as well as the students. Ding at homeuring this pandemic situation it is high time that we go digital with minimal person to person contact.This website is one such thing where we can help our younger generation to learn and prosper while seating at home.
+The purpose of the application is to give jobseekers a chance to have a well qualified and verified instructors who know how to teach students remotely and with flexibility and accessibility available. We do not strive to be another traditonal university but rather a hybrid of community college and university, where students are coddled to a certain extent but take their own responsibility for their work by reminding them about assignments and due dates in emails weekly and what questions can be asked. There is also a live webinar weekly with web accessibility for different abilities. 
 
 # How it works 
 
