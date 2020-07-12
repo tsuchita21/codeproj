@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       
+    <link rel= "stylesheet" href="https://use.fontawesome.com/releases/v5.0.6/css/all.css"/>
+    
+        <title>Help.html</title>
+    </head>
+    <body>
+      <div class="nav-area">
+           
+              <a href="index.html" class="nav">HOME</a>
+              <a href="service.html" class="nav">SERVICE</a>
+              <a href="help.html" class="nav">HELP</a>
+            </div>
+           <h2><em>Help Bot</em></h1>
+            <ul class="help">
+
+            </ul>
+            <div class="control">
+                <input type="text" placeholder="type here" autofocus id="input"/>
+                <button id="btn"> 
+                <i class="fab fa-telegram-plane"></i>
+                </button>
+                 </div>
+<script>
+    /*this is a help.js*/
+window.onload = function(){
+    var text = document.getElementById("input"); 
+    var button = document.getElementById("btn");
+    var list = document.querySelector(".help");
+    button.addEventListener("click",function(){
+        if(text.value){
+            addItem(text.value);
+            text.value = "";
+        }
+    });
+
+
+
+    function helpBot(value){
+
+        var greet = /Hi|Hello|Hey|hallo/i;
+        var why = /why/i;
+        var talk = /talk|say|said|shout|walk|run|jump|climb|verb/i;
+        var how = /how|whats up/i;
+        var thank= /thanks|thank/i;        
+        var name = /name|create/i;
+        var ok = /ok|k|great/i;
+        var age = /old/i;
+        var help = /help/i;
+        var contact = /contact/i;
+        var problem = /problem/i;        
+        var kidding = /kidding/i;
+        var sorry = /sorry/i;
+        var love = /love|like/i;
+        var hate = /hate|angry/i;
+        var msg = "sorry i dont undestand you!";
+        
+    <!--response-->  
+      
+        if(greet.test(value)){
+            msg = "hi";
+        }
+        if(why.test(value)){
+            msg = "It is because i am a bot";
+        }
+        if(talk.test(value)){
+            msg = "I can only chat";
+        }
+        if(how.test(value)){
+            msg = "I'm fine. Thank u";
+        }
+        if(thank.test(value)){
+            msg = "My pleasure to help";
+        }
+             
+        if(name.test(value)){
+            msg = "I am a bot created by E-Learners with a mission to keep you safe,secure and improve communication learning service.We are innovative.";
+        }
+        if(ok.test(value)){
+            msg = "ok";
+        }
+        if(age.test(value)){
+            msg = "My age is just like your age";
+        }
+        if(help.test(value)){
+            msg = "I am always willing to help.What is your problem?";
+        }
+        if(contact.test(value)){
+           msg = "contact us at tverah08@gmail.com.thank you"
+        }
+        if(problem.test(value)){
+            msg = "Just refresh the web page.If you go to service everything is on it.You can surf there and post something you like";
+        }
+        
+        if(kidding.test(value)){
+            msg = "Yeah im kidding! LOL";
+        }
+        if(sorry.test(value)){
+            msg = "It is ok,no problem you are still greater than me because you are a human while i am just a bot,created by a human";
+        }
+        if(love.test(value)){
+            msg = "i love you so much";
+        }
+        if(hate.test(value)){
+            msg = "Why?";
+        }
+        var item = document.createElement("li");
+        var box = document.createElement("div");
+        var me = document.createElement("div");
+        
+        me.classList.add("me");
+        
+        box.classList.add("vv");
+        box.innerHTML = msg;
+        item.appendChild(me);
+        item.appendChild(box);
+        list.appendChild(item);
+    
+}
+
+    
+    function addItem(value){
+        
+        
+        var item = document.createElement("li");
+        var box = document.createElement("div");
+        
+        box.classList.add("v");
+        box.innerHTML = value;
+        item.appendChild(box);
+        list.appendChild(item);
+        helpBot(text.value);
+    }
+  }
+    </script>
+
+    </body>
+</html>
