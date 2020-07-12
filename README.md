@@ -12,7 +12,7 @@ The main purpose of this website is to give chances to both the teachers as well
 
 # How it works 
 
-A trainer can upload his/her video by creating a account and quote the price for his training videos.A student will search the course he wants to learn and can enroll.
+A trainer can upload his/her video by creating an account and quote the price for his training videos.A student will search the course he wants to learn and can enroll.
 The payment will be done through Paypal or credit card and the payment will go directly to the trainer's account. The previe of each course will also be provided so that student can see the preview before buying.
 
 
