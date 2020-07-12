@@ -1,4 +1,4 @@
-# Interested in contributing? As an open source project, we'd appreciate any help and contributions! On top of the CodeProj Online Learning Platform engine itself, you can also contribute to any related projects.
+## Interested in contributing? As an open source project, we'd appreciate any help and contributions! On top of the CodeProj Online Learning Platform engine itself, you can also contribute to any related projects.
 
 # Join the Community on Slack
 Invite yourself to the codeproj Slack channel.
