@@ -66,7 +66,7 @@ text-align:center;
 width: 280px;
 border-color: #2ecc71;
 }
-.box input[type = "sumbit"]{
+.box input[type = "submit"]{
   
   background: none;
   display: block;
@@ -79,7 +79,7 @@ border-color: #2ecc71;
   border-radius: 24px;
   cursor: pointer;
 }
-.box input[type = "sumbit"]:hover{
+.box input[type = "submit"]:hover{
   background: #2ecc71;
 }
 
