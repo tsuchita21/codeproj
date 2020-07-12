@@ -9,7 +9,7 @@ If you're not sure how to do something with CodeProj Online Learning Platform, p
 # File an Issue
 Search the issue tracker for similar issues.
 Specify the version of Exokit in which the bug occurred.
-Specify information about your browser and system (e.g., "Exokit v0.0.420 on OS X")
+Specify information about your browser and system (e.g., " --- v0.0.420 on OS X")
 Describe the problem in detail (i.e., what happened and what you expected would happen).
 If possible, provide a small test case with CodePen, a link to your application, and/or a screenshot.
 
@@ -17,7 +17,7 @@ If possible, provide a small test case with CodePen, a link to your application,
 Check out the issues labeled help wanted (easy) or help wanted (hard) for good issues to tackle. Here's how to submit a pull request (PR):
 Have a GitHub account with SSH keys set up.
 Fork the repository on GitHub.
-Clone your fork of the repository locally (i.e., git clone git@github.com:yourusername/exokit).
+Clone your fork of the repository locally (i.e. git clone git@github.com:yourusername/project).
 Create a branch to work in (i.e., git checkout -b mybranch).
 Make changes to your fork of the repository, commit them, and push them (i.e., git add -A . && git commit -m 'My Changes (fixes #1234)' && git push origin mybranch).
 Submit a pull request to the master branch. If you head to the Exokit repository after running git push from earlier, you should see a pop up to submit a pull request.
@@ -25,7 +25,7 @@ Address review comments if any.
 As per usual with open source, you would agree to license your contributions under the MIT License.
 
 # Share your Work
-Create something awesome using Exokit.
+Create something awesome using CodeProj Online Learning Platform.
 Publish your work to Github (and GitHub pages) so everyone can learn from your work. Share this on Slack, Twitter etc!
 For bonus points, write and publish a case study to explain how you built it.
 
