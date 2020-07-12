@@ -40,9 +40,9 @@ On GitHub
 Help respond to newly-filed GitHub issues
 
 # Curate and Make Efforts Known
-We round up all the cool stuff happening with Exokit on the blog.
+We round up all the cool stuff happening with CodeProj Online Learning Platform on the blog.
 
 # Spread the Word
-If you want to hold an event and talk about WebXR and Exokit, check out the presentation kit.
+If you want to hold an event and talk about CodeProj Online Learning Platform, check out the presentation kit.
 
 Thanks so much for contributing and helping grow WebXR!
